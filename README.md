@@ -2,7 +2,7 @@
 
 **FootAi** is an AI-powered chat application specialized in football. Ask anything — about the World Cup, players, transfers, tactics… — and FootAi answers instantly using **Google Gemini**.
 
-![stack](https://img.shields.io/badge/Stack-Vue%203%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20FastAPI%20%7C%20Gemini-emerald)
+![stack](https://img.shields.io/badge/Stack-Vue%203%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20FastAPI%20%7C%20Python%20%7C%20Gemini-emerald)
 
 ---
 
