@@ -53,6 +53,9 @@
             <span class="w-2 h-2 rounded-full bg-emerald-400 animate-bounce" style="animation-delay: 300ms"></span>
           </div>
         </div>
+        <div class="text-center text-slate-400 text-xs mt-5">
+            <span>Developed By <a href="https://github.com/aminelebrini" target="_blank" class="text-emerald-400 hover:underline">AMINE LEBRINI | AL7</a></span>
+        </div>
       </main>
 
       <div class="px-5 pt-3 flex flex-wrap gap-2">
